@@ -14,7 +14,7 @@ import java.time.LocalDate;
  */
 public class Verlaengerungsregel {
 
-    public static final int MAX_VERLAENGERUNGEN = 3;
+    public static final int MAX_VERLAENGERUNGEN = 4;
     public static final int LEIHFRIST_TAGE = 21;
 
     /**
